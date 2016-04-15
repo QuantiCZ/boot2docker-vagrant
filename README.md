@@ -23,7 +23,7 @@ Automatic **installation** and **updates** of prerequisites is available via the
 
 Prerequisites are installed using **brew/cask** (brew and cask will be installed if missing).
 
-    bash <(curl -s https://raw.githubusercontent.com/blinkreaction/boot2docker-vagrant/master/scripts/presetup-mac.sh)
+    bash <(curl -s https://raw.githubusercontent.com/QuantiCZ/boot2docker-vagrant/master/scripts/presetup-mac.sh)
 
 **Windows**
 
@@ -31,7 +31,7 @@ Prerequisites are installed using **brew/cask** (brew and cask will be installed
 
 Prerequisites are installed using **babun** and **chocolatey** (chocolatey will be installed if missing).
 
-    bash <(curl -s https://raw.githubusercontent.com/blinkreaction/boot2docker-vagrant/master/scripts/presetup-win.sh)
+    bash <(curl -s https://raw.githubusercontent.com/QuantiCZ/boot2docker-vagrant/master/scripts/presetup-win.sh)
 
 
 <a name="setup"></a>
@@ -41,7 +41,7 @@ Prerequisites are installed using **babun** and **chocolatey** (chocolatey will 
 
 Designate a root folder that the VM will have access to (e.g. `~/Projects`) and run there:
 
-    bash <(curl -s https://raw.githubusercontent.com/blinkreaction/boot2docker-vagrant/master/scripts/setup.sh)
+    bash <(curl -s https://raw.githubusercontent.com/QuantiCZ/boot2docker-vagrant/master/scripts/setup.sh)
 
 ### Manual installation
 
